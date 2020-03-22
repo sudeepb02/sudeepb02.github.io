@@ -46,8 +46,8 @@ plugins:
 author:
   name   : "Sudeep Biswas"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Actively looking for opportunities in the Blockchain space"
-  location: "Hyderabad, India"
+  bio    : "A tech enthusiast"
+#  location: "Hyderabad, India"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -91,7 +91,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: false
       share: true
       related: true
