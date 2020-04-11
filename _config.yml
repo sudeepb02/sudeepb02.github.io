@@ -39,7 +39,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -61,6 +61,8 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/sudeepbiswas02"
+    - label: "sudeepbiswas.eth"
+      url: "https://etherscan.io/address/0xdf631777df4debcbcd647e85bdcb868b43663ba0"
 
 #Social links
 social:
