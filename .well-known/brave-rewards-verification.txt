@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sudeepbiswas.live
+Token: f9bdd2c7a254ec45436473eef90cdc19d8ddd15f1df6af554dc88f534ff6f366
